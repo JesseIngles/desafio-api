@@ -1,0 +1,6 @@
+@bigapi_HostAddress = http://localhost:5195
+
+GET {{bigapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

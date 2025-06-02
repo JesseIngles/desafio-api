@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/bigapi.props" />
+</Project>
