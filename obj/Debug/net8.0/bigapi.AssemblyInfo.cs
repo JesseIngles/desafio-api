@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bigapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e142ae94e93a2e4562c03682e0659d29849f290")]
 [assembly: System.Reflection.AssemblyProductAttribute("bigapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bigapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
